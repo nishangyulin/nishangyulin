@@ -1,0 +1,22 @@
+ <!DOCTYPE HTML>\n
+<html>\n
+<head>\n
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n  <meta name=\"viewport\" content=\"initial-scale=1, width=device-width, maximum-scale=1.0, user-scalable=1\" />\n  <meta name=\"format-detection\" content=\"telephone=no\" />\n
+<title>呀！苹果，一家专门做保健品的网站</title>\n
+
+<link href=\"http://web.ypgrs.com/commonh5/appview/css/reset.css\" rel=\"stylesheet\" type=\"text/css\">\n
+<link href=\"http://web.ypgrs.com/commonh5/appview/css/style.css\" rel=\"stylesheet\" type=\"text/css\">\n
+<!--#include file=\"/blockfile/common/appjsinterface.shtml\"-->\n</head>\n
+
+<body>\n  <div class=\"slogen flex\" onclick=\"appJsInterface.to(10,
+'http://m.yapingguo.com/about.shtml'
+)\">\n    <div class=\"slogen-item flex-child\"><img src=\"
+http://web.ypgrs.com/commonh5/appview/images/top1.png
+\"></div>\n    <div class=\"slogen-item flex-child\"><img src=\"
+http://web.ypgrs.com/commonh5/appview/images/top2.png
+\"></div>\n    <div class=\"slogen-item flex-child\"><img src=\"
+http://web.ypgrs.com/commonh5/appview/images/top3.png
+\"></div>\n  </div>\n
+
+</body>\n
+</html>\n
